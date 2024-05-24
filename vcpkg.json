@@ -1,0 +1,13 @@
+{
+  "name": "Permadeath-F4SE",
+  "version-string": "1.0.0",
+  "description": "An F4SE project built using CommonLibF4 that adds a permadeath mechanic to Fallout 4",
+  "homepage": "https://github.com/GELUXRUM/Permadeath",
+  "license": "MIT",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "fmt",
+    "rsm-mmio",
+    "spdlog"
+  ]
+}
